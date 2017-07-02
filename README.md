@@ -1,0 +1,1 @@
+Follow a tutorial on creating my first rails application.
